@@ -18,7 +18,7 @@ Este proyecto consiste en una tarjeta de vista previa para un blog, diseñada si
 
 ### Captura de pantalla
 
-![](images/screenshot-website.png)
+![](assets/images/screenshot-website.png)
 
 ### Links
 
