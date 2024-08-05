@@ -22,7 +22,7 @@ Este proyecto consiste en una tarjeta de vista previa para un blog, diseñada si
 
 ### Links
 
-- Live Site URL: [QR Code Component](https://renzo2o99.github.io/qr-code-component-main/) by [@Renzo2O99](https://github.com/Renzo2O99/)
+- Live Site URL: [Blog Preview Card](https://renzo2o99.github.io/blog-preview-card-main/) by [@Renzo2O99](https://github.com/Renzo2O99/)
 
 ## Características Principales
 
